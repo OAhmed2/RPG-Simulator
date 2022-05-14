@@ -1,0 +1,14 @@
+["Armour",
+  {
+    "Armour Name": "Moss Stone Armour",
+    "ID": 1,
+    "Price": 750,
+    "Damage": 21,
+    "HP": 30,
+    "MP": 0,
+    "BP": 0,
+    "Description": "A set of armour that any class can use.",
+    "Class": "N/A",
+    "Level": 5
+  }
+]

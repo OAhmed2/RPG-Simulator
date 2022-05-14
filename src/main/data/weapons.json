@@ -1,0 +1,102 @@
+["Weapons",
+  {
+    "Weapon Name": "Wand",
+    "ID": 1,
+    "Price": 0,
+    "DMG": 6,
+    "HP": 0,
+    "Description": "STARTER WAND",
+    "Class": "Mage",
+    "Level": 1
+  },
+  {
+    "Weapon Name": "Dagger",
+    "ID": 2,
+    "Price": 0,
+    "DMG": 8,
+    "HP": 0,
+    "Description": "STARTER DAGGER",
+    "Class": "Warrior",
+    "Level": 1
+  },
+  {
+    "Weapon Name": "Slingshot",
+    "ID": 3,
+    "Price": 0,
+    "DMG": 9,
+    "HP": 0,
+    "Description": "STARTER SLINGSHOT",
+    "Class": "Archer",
+    "Level": 1
+  },
+  {
+    "Weapon Name": "Ordinary Staff",
+    "ID": 4,
+    "Price": 200,
+    "DMG": 9,
+    "HP": 0,
+    "Description": "A not-so-special weapon for a not-so-special class.",
+    "Class": "Mage",
+    "Level": 2
+  },
+  {
+    "Weapon Name": "Spell Book",
+    "ID": 5,
+    "Price": 500,
+    "DMG": 14,
+    "HP": 0,
+    "Description": "A spell book to cast spells on your foes.",
+    "Class": "Mage",
+    "Level": 4
+  },
+  {
+    "Weapon Name": "Brass Knuckles",
+    "ID": 6,
+    "Price": 200,
+    "DMG": 12,
+    "HP": 0,
+    "Description": "A pair of brass knuckles to hit the enemy with.",
+    "Class": "Warrior",
+    "Level": 2
+  },
+  {
+    "Weapon Name": "Double Fury",
+    "ID": 7,
+    "Price": 500,
+    "DMG": 17,
+    "HP": 0,
+    "Description": "A small but quick dagger that can lead to staggering blow on enemies.",
+    "Class": "Warrior",
+    "Level": 4
+  },
+  {
+    "Weapon Name": "Bow",
+    "ID": 8,
+    "Price": 200,
+    "DMG": 18,
+    "HP": 0,
+    "Description": "A generic bow and arrow, cool isn't it?",
+    "Class": "Archer",
+    "Level": 2
+  },
+  {
+    "Weapon Name": "Super Shooter",
+    "ID": 9,
+    "Price": 500,
+    "DMG": 25,
+    "HP": 0,
+    "Description": "The Super Shooter is a bow that launches arrows at high speed! Whoever is in front of this better watch out.",
+    "Class": "Archer",
+    "Level": 4
+  },
+  {
+    "Weapon Name": "Steel Sword",
+    "ID": 10,
+    "Price": 0,
+    "DMG": 10,
+    "HP": 0,
+    "Description": "EXCLUSIVE FOR RAY",
+    "Class": "Warrior",
+    "Level": 1
+  }
+]

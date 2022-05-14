@@ -1,0 +1,42 @@
+["Allies",
+  {
+    "Ally": "Ray",
+    "CLASS:": "Warrior",
+    "HP": 120,
+    "MP": 9,
+    "DMG": 20,
+    "BP": 7,
+    "LVL": 2,
+    "TOTAL": 158
+  },
+  {
+    "Ally": "Akane",
+    "CLASS": "Mage",
+    "HP": 115,
+    "MP": 36,
+    "DMG": 19,
+    "BP": 33,
+    "LVL": 3,
+    "TOTAL": 206
+  },
+  {
+    "Ally": "Jake",
+    "CLASS": "Archer",
+    "HP": 100,
+    "MP": 30,
+    "DMG": 56,
+    "BP": 28,
+    "LVL": 5,
+    "TOTAL": 219
+  },
+  {
+    "Ally": "Sora",
+    "CLASS": "Warrior",
+    "HP": 160,
+    "MP": 10,
+    "DMG": 36,
+    "BP": 11,
+    "LVL": 6,
+    "TOTAL": 223
+  }
+]
